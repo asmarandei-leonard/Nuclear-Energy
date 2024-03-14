@@ -1,2 +1,2 @@
 # Nuclear-Energy
-Website with information about Nuclear Energy
+Simple website with information about Nuclear Energy
